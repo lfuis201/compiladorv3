@@ -1,0 +1,18 @@
+main(){
+
+  num x = 5
+
+  num y = 5
+
+  num a = 5
+
+  num z=x+y+a*5
+
+  si(z>10){
+    z=1
+  }sino{
+    z=2
+  }
+
+  
+}
